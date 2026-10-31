@@ -1,6 +1,6 @@
 <div align="center">
 
-![ADDITRIX Logo](https://raw.githubusercontent.com/ADDITRIX/.github/main/logo.jpeg)
+![ADDITRIX Logo](https://raw.githubusercontent.com/ADDITRIX/.github/main/banner.jpg)
 
 ## ADDITRIX
 
